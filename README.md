@@ -1,5 +1,5 @@
-Customer Churn Data 
+*Customer Churn Data*
 
-Goal: Predict customer churn (binary classification: churn/no churn).  
+**Goal**: Predict customer churn (binary classification: churn/no churn).  
 
-Data Type: Tabular data
+**Data Type**: Tabular data
