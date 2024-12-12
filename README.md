@@ -1,4 +1,4 @@
-*Customer Churn Data*
+**Customer Churn Data**
 
 **Goal**: Predict customer churn (binary classification: churn/no churn).  
 
