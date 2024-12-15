@@ -95,6 +95,10 @@ Model Evaluation: classification_report, confusion_matrix
  ![modell](https://github.com/user-attachments/assets/9bc46e78-cd16-4123-9614-4f9fb047aa34)
 
 ## 📂 Project Files
+
 churn_data.csv: Dataset used for the project.
+
 churn_prediction.ipynb: Notebook containing the code, visualizations, and results.
+
 README.md: Project documentation.
+
