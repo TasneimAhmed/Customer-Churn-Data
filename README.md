@@ -44,18 +44,29 @@ Scale numerical features for better model performance.
 Split the dataset into training (80%) and testing (20%) subsets.
 
 **Model Building**
+
 Build and compare multiple machine learning models:
+
 Logistic Regression
+
 Random Forest
+
 Gradient Boosting
+
 Support Vector Machines (SVM)
+
 SMOTE technique for imbalance data
 
 **Model Evaluation**
+
 Evaluate models using the following metrics:
+
 Accuracy
+
 Recall (Sensitivity)
+
 Precision
+
 F1-Score
 
 **Hyperparameter Tuning**
