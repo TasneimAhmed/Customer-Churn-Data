@@ -19,16 +19,27 @@ Customer Usage Patterns (e.g., product usage, purchase history).
 Subscription Details (e.g., tenure, contract type).
 Service Metrics (e.g., support calls, charges).
 ## 🔑 Features and Labels
+
 Input Features:
+
 Age
+
 Tenure
+
 MonthlyCharges
+
 TotalCharges
+
 Number of Support Calls
+
 Contract Type (e.g., monthly, yearly)
+
 Payment Method
+
 Target Variable:
+
 Churn (1 = churn, 0 = no churn)
+
 ## 🛠 Steps in the Project
 
 **Data Exploration & Cleaning**
