@@ -4,8 +4,11 @@
 Customer churn occurs when customers stop using a company's products or services. Predicting churn is critical for businesses to retain customers, optimize marketing strategies, and reduce revenue loss.
 ## 🔍 Problem Understanding
 **Customer Churn Prediction is a binary classification problem:**
+
 Class 0: Customers who stay (no churn).
+
 Class 1: Customers who leave (churn).
+
 **By analyzing patterns in customer data, we can build a predictive model to:**
 Identify customers likely to churn.
 Take proactive measures to retain them (e.g., discounts, personalized services).
