@@ -27,14 +27,19 @@ Payment Method
 Target Variable:
 Churn (1 = churn, 0 = no churn)
 ## 🛠 Steps in the Project
+
 **Data Exploration & Cleaning**
+
 Handle missing values, outliers, and data inconsistencies.
 Visualize key features to understand trends.
+
 **Feature Engineering**
 Convert categorical variables into numerical 
 Scale numerical features for better model performance.
+
 **Train-Test Split**
 Split the dataset into training (80%) and testing (20%) subsets.
+
 **Model Building**
 Build and compare multiple machine learning models:
 Logistic Regression
@@ -42,14 +47,17 @@ Random Forest
 Gradient Boosting
 Support Vector Machines (SVM)
 SMOTE technique for imbalance data
+
 **Model Evaluation**
 Evaluate models using the following metrics:
 Accuracy
 Recall (Sensitivity)
 Precision
 F1-Score
+
 **Hyperparameter Tuning**
 Fine-tune the best-performing model to optimize its performance.
+
 ## 📊 Key Tools & Libraries
 Programming Language: Python
 Libraries:
